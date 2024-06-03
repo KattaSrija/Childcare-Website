@@ -11,6 +11,7 @@ This is a web based application developed for health related based website.
 ## Azure Technologies used for the project
 
 - Static Web Apps
+- Azure Maps
 - Health bot
 
 ## Features and Functionalities
@@ -50,4 +51,11 @@ This is a web based application developed for health related based website.
 
 # Appointment Booking
 ![Screenshot 2024-06-03 132559](https://github.com/KattaSrija/Childcare-Website/assets/161741828/dbd05d12-e644-492d-8b2d-854332b2a747)
+
+
+### Tech Stack
+- Azure(Hosting)
+- HTML
+- CSS
+- Javascript
 
