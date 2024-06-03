@@ -6,7 +6,7 @@ This is a web based application developed for health related based website.
 
 **Project Link** - https://jolly-grass-08973dc00.5.azurestaticapps.net/
 
-**Project demo video link** -
+**Project demo video link** - https://www.youtube.com/watch?v=ic317oxRQUU
 
 ## Azure Technologies used for the project
 
