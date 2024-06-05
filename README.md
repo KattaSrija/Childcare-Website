@@ -117,6 +117,14 @@ And when we click on healthbot, it will direct to the AI Healthbot which will an
 
 
 
+
+
+
+
+
+
+
+
 ## Features and Functionalities
 
 -Interactive and resposive UI.
