@@ -6,7 +6,7 @@ This is a web based application developed for health related based website.
 
 **Project Link** - https://red-ocean-025169800.5.azurestaticapps.net/
 
-**Project demo video link** - https://www.youtube.com/watch?v=ic317oxRQUU
+**Project demo video link** - https://www.youtube.com/watch?v=PgvAfixA_2U
 
 ## Azure Technologies used for the project
 
