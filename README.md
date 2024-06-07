@@ -16,9 +16,9 @@ This is a web based application developed for health related based website.
 
 ## How I used Azure services
 # How I used Static web Apps
-
-I used static web apps service to deploy the website.
-Below is the process of how I used Static web apps service to deploy the website.
+- Azure Static Web App: Hosts the application, delivering a seamless user experience with fast loading times and scalable infrastructure.
+- I used static web apps service to deploy the website.
+- Below is the process of how I used Static web apps service to deploy the website.
 
 
 ![Screenshot 2024-06-05 202836](https://github.com/KattaSrija/Childcare-Website/assets/161741828/6faef787-be1f-443b-ae43-976e6da19978)
@@ -50,9 +50,9 @@ After deploying, the website is now accessible.
 
 
 # How I used Resource Manager
-
-I used Resource Manager to create a resouce named "Project".
-Below is the process of how I used Resource manager to create a resource.
+- Azure Resource Manager is the deployment and management service for Azure. It provides a management layer that enables you to create, update, and delete resources in your Azure account. 
+- I used Resource Manager to create a resouce named "Project".
+- Below is the process of how I used Resource manager to create a resource.
 
 
 ![Screenshot 2024-06-05 204142](https://github.com/KattaSrija/Childcare-Website/assets/161741828/cda2d70a-8e67-4f7c-b27c-b9059b9e088c)
@@ -72,12 +72,9 @@ After these steps a resource named "project" is created.
 
 ## How I used HealthBot service
 
-I used assure healthbot service.
-
-Below is the process of how I created a Healthbot.
-
-
-In the Resource group "Project", Im creating a healthbot
+- Azure Health Bot: Integrated to provide advanced conversational AI capabilities, enhancing user interactions and providing personalized responses.
+- Below is the process of how I created a Healthbot.
+- In the Resource group "Project", Im creating a healthbot
 
 ![Screenshot 2024-06-05 205326](https://github.com/KattaSrija/Childcare-Website/assets/161741828/5c9b5e1a-317c-4898-9aa6-e2894785675f)
 
