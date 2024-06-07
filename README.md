@@ -76,6 +76,10 @@ After these steps a resource named "project" is created.
 - Below is the process of how I created a Healthbot.
 - In the Resource group "Project", Im creating a healthbot
 
+- The following is the picture of healthbot in the website.
+![healthbot](https://github.com/KattaSrija/Childcare-Website/assets/161741828/7a1ad980-0480-4dd1-973b-8210db306111)
+
+
 ![Screenshot 2024-06-05 205326](https://github.com/KattaSrija/Childcare-Website/assets/161741828/5c9b5e1a-317c-4898-9aa6-e2894785675f)
 
 
@@ -102,13 +106,14 @@ after clicking on that you will be directed to another page
 ![image](https://github.com/KattaSrija/Childcare-Website/assets/161741828/170d71bf-4d36-4b4f-a91d-e950969acf8e)
 and we will copy the code and use it in our website.
 
-![Screenshot 2024-06-05 210602](https://github.com/KattaSrija/Childcare-Website/assets/161741828/92e7632c-4f98-482e-b2d9-5ed3ee2aea3e)
+
 
 ![Screenshot 2024-06-05 210831](https://github.com/KattaSrija/Childcare-Website/assets/161741828/21357dda-4da6-4cf9-9313-1ee995985703)
 
 And when we click on healthbot, it will direct to the AI Healthbot which will answer our queries related to health.
+![healthbot](https://github.com/KattaSrija/Childcare-Website/assets/161741828/4bb9215e-210c-4b12-b018-ef22f1f808e7)
 
-![Screenshot 2024-06-05 211928](https://github.com/KattaSrija/Childcare-Website/assets/161741828/1532599f-af78-48e5-99df-fa13d367ac4f)
+
 
 
 
@@ -141,7 +146,9 @@ And when we click on healthbot, it will direct to the AI Healthbot which will an
 ![Screenshot 2024-06-03 131606](https://github.com/KattaSrija/Childcare-Website/assets/161741828/86992405-ef1f-41e2-8446-29fa3956105f)
 
 # about us
-![Screenshot 2024-06-03 131720](https://github.com/KattaSrija/Childcare-Website/assets/161741828/055ed3b7-4f25-40f7-8513-3d4820bf3703)
+![Screenshot 2024-06-07 195806](https://github.com/KattaSrija/Childcare-Website/assets/161741828/d101a0d7-b0af-4c77-8daa-93f6e616c1f5)
+
+
 ![Screenshot 2024-06-03 131740](https://github.com/KattaSrija/Childcare-Website/assets/161741828/48f45614-d229-4196-b61b-5b0a621261f5)
 
 # services
